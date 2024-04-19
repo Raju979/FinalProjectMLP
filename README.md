@@ -24,7 +24,12 @@ Step 4: Once the notebook all cell is successfully executed, it shows all the re
 }
 ```
 ## References
-[1] [Fischer, Thomas, and Christopher Krauss. "Deep learning with long short-term memory networks for financial market predictions." European Journal of Operational Research 270.2 (2018): 654-669.](https://www.econstor.eu/bitstream/10419/157808/1/886576210.pdf) <br>
-[2] [Krauss, Christopher, Xuan Anh Do, and Nicolas Huck. "Deep neural networks, gradient-boosted trees, random forests: Statistical arbitrage on the S&P 500." European Journal of Operational Research 259.2 (2017): 689-702.](https://www.econstor.eu/bitstream/10419/130166/1/856307327.pdf)
+[1]: Ghosh, Pushpendu & Neufeld, Ariel & Sahoo, Jajati. (2020). Forecasting
+directional movements of stock prices for intraday trading using LSTM and random
+forests.https://www.researchgate.net/publication/340826434_Forecasting_directional_movements_of_stock_prices_for_intraday_trading_using_LSTM_and_random_forests
+[2]: Fischer, Thomas & Krauss, Christopher. (2017). Deep learning with long short-
+term memory networks for financial market predictions. European Journal of
+Operational Research. 270. 10.1016/j.ejor.2017.11.054.
+
 
 
